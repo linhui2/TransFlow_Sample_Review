@@ -1,0 +1,4 @@
+Key,English,Simplified Chinese,Japanese,Spanish
+welcome_title,Welcome,欢迎,ようこそ,Bienvenido
+welcome_subtitle,Choose a CSV file and output folder to generate Localizable.strings.,选择 CSV 文件与输出目录即可生成 Localizable.strings。,CSV ファイルと出力フォルダを選ぶと Localizable.strings を生成します。,Elija un archivo CSV y una carpeta de salida para generar Localizable.strings.
+app_name,MacTranslator,MacTranslator,MacTranslator,MacTranslator
